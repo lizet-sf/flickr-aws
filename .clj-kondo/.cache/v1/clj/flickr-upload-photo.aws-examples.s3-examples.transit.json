@@ -1,0 +1,1 @@
+["^ ","~$s3",["^ ","~:row",23,"~:col",3,"~:name","^0","~:ns","~$flickr-upload-photo.aws-examples.s3-examples","~:top-ns","^5"],"~$bucket-name",["^ ","^1",49,"^2",3,"^3","^7","^4","^5","^6","^5","~:type","~:string"],"~$c",["^ ","^1",102,"^2",3,"^3","~$c","^4","^5","^6","^5"],"~:filename","/home/liz/repos/flickr-aws/src/flickr_aws/aws_examples/s3_examples.clj"]

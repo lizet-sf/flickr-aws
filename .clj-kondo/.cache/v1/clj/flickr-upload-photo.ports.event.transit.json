@@ -1,0 +1,1 @@
+["^ ","~$scheduled-incoming-event",["^ ","~:row",7,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$flickr-upload-photo.ports.event","~:top-ns","^7","~:type","~:fn"],"~:filename","/home/liz/repos/flickr-aws/src/flickr_aws/ports/ports/event.clj"]
