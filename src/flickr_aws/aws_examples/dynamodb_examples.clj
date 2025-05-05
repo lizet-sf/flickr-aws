@@ -38,6 +38,10 @@
   (ports.aws/ddb-put-item ddb
                           (adapters.aws/->ddb-put-item-request {:item-key {:partition-key "20250221"
                                                                            :sort-key "1"}}))
+  (ports.aws/ddb-flickr-put-item ddb
+                                 {:item-key {:partition-key "20250221"
+                                             :sort-key "1"}
+                                  :item-values {:photo-name "20250221.jpg"}})
 
   (ports.aws/ddb-batch-put-items ddb
                                  (adapters.aws/->ddb-batch-put-items-request [{:item-key {:partition-key "20250223"
